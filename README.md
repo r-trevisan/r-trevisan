@@ -20,9 +20,9 @@
   <img align="center" alt="Rafa-AWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Rafa-GithubActions" height="30" width="140" src="https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white">
   <img align="center" alt="Rafa-Pycharm" height="30" width="110" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img align="center" alt="Rafa-Windows" height="30" width="110" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     
-  ### ✉️ Contato
+    
+  #### ✉️ Contato
 
   <a target='_blank' href='mailto:rrhtt3@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a target='_blank' href='https://www.linkedin.com/in/rafael-h-trevisan-b40935186/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
