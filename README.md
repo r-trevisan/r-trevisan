@@ -3,22 +3,15 @@
 ### Olá! Eu sou o Rafael H. Trevisan, muito prazer. 👋
 
 
-- 📚 No momento estou estudando a linguagem Python e o Framework Django.
+- 📚 No momento estudo a linguagem Python <img align="center" alt="Rafa-Python" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">, e o Framework Django <img align="center" alt="Rafa-Django" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">, na trilha Backend do [Bootcamp DevPro](https://pythonpro.com.br/).
+- 🥇 Estou em busca de uma vaga como Desenvolvedor.
 
 <div align="center">
   <a href="https://github.com/r-trevisan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-trevisan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-trevisan&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Django" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Rafa-Git" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Rafa-Github" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
-  <img align="center" alt="Rafa-AWS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+
     
     
   #### ✉️ Contato
